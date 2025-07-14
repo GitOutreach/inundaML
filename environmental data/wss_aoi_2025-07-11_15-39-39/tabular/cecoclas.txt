@@ -1,0 +1,6 @@
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F148XY025PA"|"Moist, Triassic, Upland, Mixed Oak - Hardwood - Conifer Forest"|"25727833"|"11374044"
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F148XY025PA"|"Moist, Triassic, Upland, Mixed Oak - Hardwood - Conifer Forest"|"25727837"|"11374045"
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F148XY028PA"|"Moist, Triassic, Riparian Zone, Ecotonal Meadow-Shrub-Forest"|"25727259"|"11373870"
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F148XY031PA"|"Hydric, Triassic, Riparian Zone, Swamp Meadow-Shrub-Forest"|"25727260"|"11373871"
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F148XY025PA"|"Moist, Triassic, Upland, Mixed Oak - Hardwood - Conifer Forest"|"25727295"|"11373881"
+"NRCS Forestland Site"|"Ecological Site Description Database"|"F148XY031PA"|"Hydric, Triassic, Riparian Zone, Swamp Meadow-Shrub-Forest"|"25727322"|"11373890"

@@ -1,0 +1,8 @@
+|0.5||"Medium"|"Moderate"|"Tubular"|Yes|"76732187"|"3866496"
+|0.5||"Coarse"|"Moderate"|"Tubular"|Yes|"76732187"|"3866497"
+|0.5||"Medium"|"Moderate"|"Tubular"|Yes|"76732188"|"3866495"
+|3||"Medium"|"Moderate"|"Tubular"|Yes|"76732186"|"3866498"
+|0.5||"Coarse"|"Moderate"|"Tubular"|Yes|"76732206"|"3866501"
+|0.5||"Medium"|"Moderate"|"Tubular"|Yes|"76732206"|"3866500"
+|0.5||"Medium"|"Moderate"|"Tubular"|Yes|"76732207"|"3866499"
+|3||"Medium"|"Moderate"|"Tubular"|Yes|"76732205"|"3866502"

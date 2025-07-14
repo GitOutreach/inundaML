@@ -1,0 +1,6 @@
+"Climate Factor Area (USLE)"|"8"|"Climate Factor"|397945|"14903"|"584639"
+"County or Parish"|"PA017"|"Bucks"|397945|"14903"|"584640"
+"MLRA"|"148"|"Northern Piedmont"|368097|"14903"|"584641"
+"MLRA"|"149A"|"Northern Coastal Plain"|29858|"14903"|"584642"
+"Rainfall Factor Area (USLE)"|"175"|"Rainfall Factor"|397945|"14903"|"584643"
+"State or Territory"|"PA"|"Pennsylvania"|397945|"14903"|"584644"

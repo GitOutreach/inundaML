@@ -1,0 +1,1368 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator:
+        U.S. Department of Agriculture, Natural Resources
+        Conservation Service
+      Publication_Date: 20240904
+      Title:
+        Soil Survey Geographic (SSURGO) database for
+        Bucks County, Pennsylvania
+      Publication_Information:
+        Publication_Place: Fort Worth, Texas
+        Publisher:
+          U.S. Department of Agriculture, Natural Resources
+          Conservation Service
+      Other_Citation_Details: pa017
+      Online_Linkage: https://websoilsurvey.sc.egov.usda.gov/
+  Description:
+    Abstract:
+      This data set is a digital soil survey and generally is the most
+      detailed level of soil geographic data developed by the National
+      Cooperative Soil Survey. The information was prepared by digitizing
+      maps, by compiling information onto a planimetric correct base
+      and digitizing, or by revising digitized maps using remotely
+      sensed and other information.
+
+      This data set consists of georeferenced digital map data and
+      computerized attribute data. The map data are in a soil survey area
+      extent format and include a detailed, field verified inventory
+      of soils and miscellaneous areas that normally occur in a repeatable
+      pattern on the landscape and that can be cartographically shown at
+      the scale mapped. A special soil features layer (point and line
+      features) is optional. This layer displays the location of features
+      too small to delineate at the mapping scale, but they are large
+      enough and contrasting enough to significantly influence use and
+      management. The soil map units are linked to attributes in the
+      National Soil Information System relational database, which gives
+      the proportionate extent of the component soils and their properties.
+    Purpose:
+      SSURGO depicts information about the kinds and distribution of
+      soils on the landscape. The soil map and data used in the SSURGO
+      product were prepared by soil scientists as part of the National
+      Cooperative Soil Survey.
+    Supplemental_Information:
+      Digital versions of hydrography, cultural features, and other
+      associated layers that are not part of the SSURGO data set may be
+      available from the primary organization listed in the Point of
+      Contact.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 19990210
+        Ending_Date: 20240904
+    Currentness_Reference: publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: As needed
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -75.484
+      East_Bounding_Coordinate: -74.721
+      North_Bounding_Coordinate: 40.608
+      South_Bounding_Coordinate: 40.049
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: soil survey
+      Theme_Keyword: soils
+      Theme_Keyword: Soil Survey Geographic
+      Theme_Keyword: SSURGO
+    Place:
+      Place_Keyword_Thesaurus: USGS Geographic Names Information System (GNIS)
+      Place_Keyword: Pennsylvania
+      Place_Keyword: Bucks County
+      Place_Keyword: Allentown East Quadrangle
+      Place_Keyword: Hellertown Quadrangle
+      Place_Keyword: Riegelsville Quadrangle
+      Place_Keyword: Frenchtown Quadrangle
+      Place_Keyword: Milford Square Quadrangle
+      Place_Keyword: Quakertown Quadrangle
+      Place_Keyword: Bedminster Quadrangle
+      Place_Keyword: Lumberville Quadrangle
+      Place_Keyword: Stockton Quadrangle
+      Place_Keyword: Perkiomenville Quadrangle
+      Place_Keyword: Telford Quadrangle
+      Place_Keyword: Doylestown Quadrangle
+      Place_Keyword: Buckingham Quadrangle
+      Place_Keyword: Lambertville Quadrangle
+      Place_Keyword: Pennington Quadrangle
+      Place_Keyword: Ambler Quadrangle
+      Place_Keyword: Hatboro Quadrangle
+      Place_Keyword: Langhorne Quadrangle
+      Place_Keyword: Trenton West Quadrangle
+      Place_Keyword: Trenton East Quadrangle
+      Place_Keyword: Beverly Quadrangle
+      Place_Keyword: Bristol Quadrangle
+  Access_Constraints: None
+  Use_Constraints:
+    The U.S. Department of Agriculture, Natural Resources Conservation
+    Service, should be acknowledged as the data source in products
+    derived from these data.
+
+    This data set is not designed for use as a primary regulatory tool
+    in permitting or citing decisions, but may be used as a reference
+    source. This is public information and may be interpreted by
+    organizations, agencies, units of government, or others based on
+    needs; however, they are responsible for the appropriate
+    application. Federal, State, or local regulatory bodies are not to
+    reassign to the Natural Resources Conservation Service any
+    authority for the decisions that they make. The Natural Resources
+    Conservation Service will not perform any evaluations of these maps
+    for purposes related solely to State or local regulatory programs.
+
+    Photographic or digital enlargement of these maps to scales greater
+    than at which they were originally mapped can cause misinterpretation
+    of the data. If enlarged, maps do not show the small areas of
+    contrasting soils that could have been shown at a larger scale. The
+    depicted soil boundaries, interpretations, and analysis derived from
+    them do not eliminate the need for onsite sampling, testing, and
+    detailed study of specific sites for intensive uses. Thus, these data
+    and their interpretations are intended for planning purposes only.
+    Digital data files are periodically updated. Files are dated, and
+    users are responsible for obtaining the latest version of the data.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Department of Agriculture, Natural Resources Conservation Service
+      Contact_Position: State Soil Scientist
+      Contact_Address:
+        Address_Type: mailing address
+        Address: USDA-NRCS
+        Address: 359 East Park Drive, Suite 2
+        City: Harrisburg
+        State_or_Province: PA
+        Postal_Code: 17111-2747
+      Contact_Voice_Telephone: 717-237-2207
+      Contact_TDD/TTY_Telephone: 7172372235
+      Contact_Facsimile_Telephone: 717-237-2238
+      Contact_Electronic_Mail_Address: Yuri.Plowden@usda.gov
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report:
+      The attribute accuracy is tested by manual
+      comparison of the source with hard copy plots and/or symbolized
+      display of the map data on an interactive computer graphic system.
+      Selected attributes that cannot be visually verified on plots or
+      on screen are interactively queried and verified on screen. In
+      addition, the attributes are tested against a master set of valid
+      attributes. All attribute data conform to the attribute codes in
+      the signed classification and correlation document and amendment(s).
+  Logical_Consistency_Report:
+    Certain node/geometry and topology GT- polygon/chain relationships
+    are collected or generated to satisfy topological requirements
+    (the GT-polygon corresponds to the soil delineation). Some of these
+    requirements include: chains must begin and end at nodes, chains
+    must connect to each other at nodes, chains do not extend through
+    nodes, left and right GT-polygons are defined for each chain
+    element and are consistent throughout, and the chains representing
+    the limits of the file are free of gaps. The tests of logical
+    consistency are performed using vendor software. All internal
+    polygons are tested for closure with vendor software and are checked
+    on hard copy plots. All data are checked for common soil lines (i.e.,
+    adjacent polygons with the same label). Edge locations generally do
+    not deviate from centerline to centerline by more than 0.01 inch.
+
+    The Soil Survey of Bucks County, Pennsylvania is edge matched to
+    the adjacent Pennsylvania Soil Survey Geographic (SSURGO) databases of
+    Philadelphia County, Montgomery County, Lehigh County and Northampton
+    County.  The Soil Survey of Bucks County, Pennsylvania is also edge
+    matched to the adjacent New Jersey Soil Survey Geographic (SSURGO)
+    databases of Mercer County, Hunterdon County, Burlington County and
+    Warren County.
+
+    The feature edges (polygon and line segments) for this survey match
+    adjacent ones in the edgematched soil surveys of Lehigh County,
+    Pennsylvania, Northampton County, Pennsylvania, Montgomery County,
+    Pennsylvania, Mercer County, New Jersey, Burlington County, New Jersey
+    and Hunterdon County, New Jersey.  The feature labels and descriptive
+    attributes (tabular information about the polygon and line segments) for
+    the New Jersey counties match exactly to adjacent ones in Bucks County.
+    Most feature labels and descriptive attributes for Lehigh County and
+    Montgomery County match adjacent ones in Bucks County.
+
+    The soil survey boundary for Bucks County matches the
+    soil survey boundaries of the adjacent certified soil surveys.
+  Completeness_Report:
+    A map unit is a collection of areas defined and named in terms of
+    their soil components or miscellaneous areas or both. Each map
+    unit differs in some respect from all others in a survey area and
+    each map unit has a symbol that uniquely identifies the map unit
+    on a soil map. Each individual area, point, or line so identified
+    on the map is a delineation.
+
+    Soil Scientists identify small areas of soils or miscellaneous areas
+    that have properties and behavior significantly different than the
+    named soils in the surrounding map unit. These minor components
+    may be indicated as special features. If they have a minimal effect
+    on use and management, or could not be precisely located, they may
+    not be indicated on the map.
+
+    A map unit has specified kinds of soils or miscellaneous areas
+    (map unit components), each with a designated range in
+    proportionate extent. Map units include one or more kinds of soil
+    or miscellaneous area. Miscellaneous areas are areas that have little
+    or no recognizable soil.
+
+    Specific National Cooperative Soil Survey standards and procedures
+    were used in the classification of soils, design and name of map
+    units, and location of special soil features. These standards are
+    outlined in Agricultural Handbook 18, Soil Survey Manual, 1993,
+    USDA, NRCS; Agricultural Handbook 436, Soil Taxonomy, 1995,
+    USDA, NRCS; and all Amendments; Keys to Soil Taxonomy,
+    (current issue) USDA, NRCS; National Soil Survey
+    Handbook, title 430-VI,(current issue) USDA, NRCS.
+
+    The actual composition and interpretive purity of the map unit
+    delineations were based on data collected by scientists during
+    the course of preparing the soil maps. Adherence to National
+    Cooperative Soil Survey standards and procedures is based on
+    peer review, quality control, and quality assurance. Quality
+    control is outlined in the memorandum of understanding for the
+    soil survey area and in documents that reside with the Natural
+    Resources Conservation Service state soil scientist. Four kinds
+    of map units are used in soil surveys: consociations, complexes,
+    associations, and undifferentiated groups.
+
+    Consociations - Consociations are named for the dominant soil.
+    In a consociation, delineated areas use a single name from the
+    dominant component in the map unit. Dissimilar components are
+    minor in extent. The soil component in a consociation may be
+    identified at any taxonomic level. Soil series is the lowest
+    taxonomic level. A consociation that is named as a miscellaneous
+    area is dominantly that kind of area and minor components do not
+    significantly affect the use of the map unit. The total amount of
+    dissimilar inclusions of other components in a map unit generally
+    does not exceed about 15 percent if limiting and 25 percent if
+    nonlimiting. A single component of a dissimilar limiting inclusion
+    generally does not exceed 10 percent if very contrasting.
+
+    Complexes and associations - Complexes and associations consist
+    of two or more dissimilar components that occur in a regularly
+    repeating pattern. The total amount of other dissimilar components
+    is minor extent. The following arbitrary rule determines whether
+    complex or association is used in the name. The major components
+    of an association can be separated at the scale of mapping. In
+    either case, because the major components are sufficiently different
+    in morphology or behavior, the map unit cannot be called a
+    consociation. In each delineation of a complex or an association,
+    each major component is normally present though their proportions
+    may vary appreciably from one delineation to another. The total
+    amount of inclusions in a map unit that are dissimilar to any of
+    the major components does not exceed 15 percent if limiting and
+    25 percent if nonlimiting. A single kind of dissimilar limiting
+    inclusion usually does not exceed 10 percent.
+
+    Undifferentiated groups - Undifferentiated groups consist of two
+    or more components that are not consistently associated
+    geographically and, therefore, do not always occur together in
+    the same map delineation. These components are included in the
+    same named map unit because their use and management are the same
+    or very similar for common uses. Generally they are grouped together
+    because some common feature, such as steepness, stoniness, or
+    flooding, determines their use and management. If two or more
+    additional map units would serve no useful purpose, they may be
+    included in the same unit. Each delineation has at least one of the
+    major components, and some may have all of them. The same principles
+    regarding the proportion of minor components that apply to
+    consociations also apply to undifferentiated groups. The same
+    principles regarding proportion of inclusion apply to
+    undifferentiated groups as to consociations.
+
+    Minimum documentation consists of three complete soil profile
+    descriptions that are collected for each soil added to the legend,
+    one additional per 3,000 acres mapped; three 10 observation
+    transects for each map unit, one additional 10 point transect per
+    3,000 acres.
+
+    A defined standard or level of confidence in the interpretive
+    purity of the map unit delineations is attained by adjusting the
+    kind and intensity of field investigations. Field investigations
+    and data collection are carried out in sufficient detail to name
+    map units and to identify accurately and consistently areas of
+    about 5 acres.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report:
+        The accuracy of these digital data is based upon their
+        compilation to base maps that meet National Map
+        Accuracy Standards at a scale of 1 inch equals 1,000
+        feet. The difference in positional accuracy between the
+        soil boundaries and special soil features locations in the
+        field and their digitized map locations is unknown. The
+        locational accuracy of soil delineations on the ground varies
+        with the transition between map units.
+
+        For example, on long gently sloping landscapes the transition
+        occurs gradually over many feet. Where landscapes change
+        abruptly from steep to level, the transition will be very
+        narrow. Soil delineation boundaries and special soil features
+        generally were digitized within 0.01 inch of their locations on
+        the digitizing source. The digital map elements are edge matched
+        between data sets. The data along each quadrangle edge are
+        matched against the data for the adjacent quadrangle. Edge
+        locations generally do not deviate from centerline to centerline
+        by more than 0.01 inch.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator:
+            U.S. Department of Agriculture,
+            Soil Conservation Service
+          Publication_Date: 1975
+          Title:
+            Soil Survey for Bucks and Philadelphia Counties,
+            Pennsylvania
+          Geospatial_Data_Presentation_Form: atlas
+          Publication_Information:
+            Publication_Place: Washington, DC
+            Publisher: U.S. Government Printing Office
+      Source_Scale_Denominator: 15840
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1975
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: SCS1
+      Source_Contribution: basic reference material about soils and landscapes
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator:
+            U.S. Department of Agriculture,
+            Soil Conservation Service
+          Publication_Date: 1986
+          Title: multiple aerial photographs
+          Geospatial_Data_Presentation_Form: remote sensing image
+          Publication_Information:
+            Publication_Place: Fort Worth, Texas
+            Publisher:
+              U.S. Department of Agriculture,
+              Soil Conservation Service
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1986
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: SCS2
+      Source_Contribution: base materials for field mapping
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 1957-1983
+          Title: multiple 7.5 minute topographic quadrangles
+          Geospatial_Data_Presentation_Form: map
+          Publication_Information:
+            Publication_Place: Reston, Virginia
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1957
+            Ending_Date: 1983
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: USGS1
+      Source_Contribution: landscape shape, aspect and slope reference
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator:
+            U.S. Department of Agriculture,
+            Soil Conservation Service
+          Publication_Date: unpublished material
+          Title: ratioed film positives of 1975 published soil survey
+          Geospatial_Data_Presentation_Form: map
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: stable-base material
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1975
+        Source_Currentness_Reference: soil survey publication date
+      Source_Citation_Abbreviation: SCS3
+      Source_Contribution:
+        reference material for line placement, soil
+        symbols and special soil features
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 1989
+          Title: multiple analog orthophotographic quadrangles
+          Geospatial_Data_Presentation_Form: remote sensing image
+          Publication_Information:
+            Publication_Place: Fort Worth, Texas
+            Publisher:
+              U.S Department of Agriculture,
+              Soil Conservation Service
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: stable-base material
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1989
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: USGS2
+      Source_Contribution: base maps for recompilation
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator:
+            U.S. Department of Agriculture,
+            Natural Resources Conservation Service
+          Publication_Date: unpublished material
+          Title: multiple characterization and statistical soil data
+          Geospatial_Data_Presentation_Form: map
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1988
+            Ending_Date: 1995
+        Source_Currentness_Reference: date analyses were completed
+      Source_Citation_Abbreviation: NRCS1
+      Source_Contribution:
+        information for soil map unit delineations,
+        special soil feature locations and data on
+        soil properties
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator:
+            U.S. Department of Agriculture,
+            Natural Resources Conservation Service
+          Publication_Date: unpublished material
+          Title: annotated soil overlays
+          Geospatial_Data_Presentation_Form: map
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: stable-base material
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1994
+            Ending_Date: 1995
+        Source_Currentness_Reference: dates of recompilation
+      Source_Citation_Abbreviation: NRCS2
+      Source_Contribution: scanning source
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator:
+            U.S. Department of Agriculture,
+            Natural Resources Conservation Service
+          Publication_Date: 1998
+          Title:
+            National Map Unit Interpretations Record (MUIR) database
+            for Bucks County, Pennsylvania
+          Geospatial_Data_Presentation_Form: tabular digital data
+          Publication_Information:
+            Publication_Place: Fort Worth, Texas
+            Publisher:
+              U.S Department of Agriculture,
+              Natural Resources Conservation Service,
+              National Cartography and Geospatial Center
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1998
+        Source_Currentness_Reference: edit date in ssarea table
+      Source_Citation_Abbreviation: NRCS3
+      Source_Contribution:
+        tabular soil property data linked to
+        spatial soil data
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator:
+            U.S. Department of Agriculture,
+            Natural Resources Conservation Service
+          Publication_Date: 2004
+          Title:
+            National Soil Information System (NASIS) database
+            for Bucks County, Pennsylvania
+          Geospatial_Data_Presentation_Form: tabular digital data
+          Publication_Information:
+            Publication_Place: Fort Collins, Colorado
+            Publisher:
+              U.S Department of Agriculture,
+              Natural Resources Conservation Service,
+              Information Technology Center
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2004
+        Source_Currentness_Reference: export certification date
+      Source_Citation_Abbreviation: NRCS4
+      Source_Contribution:
+        tabular soil property data linked to
+        spatial soil data
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator:
+            U.S. Department of Agriculture,
+            Natural Resources Conservation Service
+          Publication_Date: 1999
+          Title:
+            Soil Survey Geographic (SSURGO) database
+            for Bucks County, Pennsylvania
+          Geospatial_Data_Presentation_Form: vector digital data
+          Publication_Information:
+            Publication_Place: Fort Worth, Texas
+            Publisher:
+              U.S Department of Agriculture,
+              Natural Resources Conservation Service,
+              National Cartography and Geospatial Center
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1999
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: NRCS5
+      Source_Contribution:
+        certified SSURGO product used as source for
+        digital revision
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 1995-1996
+          Title:
+            multiple 7.5 minute digital orthophotographic
+            quadrangles (DOQs)
+          Geospatial_Data_Presentation_Form: remotely sensed image
+          Publication_Information:
+            Publication_Place: Reston, Virginia
+            Publisher: U.S. Geological Survey
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: digital image
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1992
+            Ending_Date: 1995
+        Source_Currentness_Reference: image source date
+      Source_Citation_Abbreviation: USGS3
+      Source_Contribution:
+        imagery used to adjust the soil boundaries
+        to the water bodies
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator:
+            U.S. Department of Agriculture,
+            Natural Resources Conservation Service
+          Publication_Date: 2004-2007
+          Title: National Soil Information System (NASIS) data base
+          Geospatial_Data_Presentation_Form: unknown
+          Publication_Information:
+            Publication_Place: Fort Collins, Colorado
+            Publisher:
+              U.S. Department of Agriculture,
+              Natural Resources Conservation Service
+      Type_of_Source_Media: database
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 2004
+            Ending_Date: 2007
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: NASIS
+      Source_Contribution: attribute (tabular) information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator:
+            U.S. Department of Agriculture,
+            Natural Resources Conservation Service
+          Publication_Date: 2004
+          Title:
+            Soil Survey Geographic (SSURGO) database for
+            Bucks County, Pennsylvania
+          Geospatial_Data_Presentation_Form: vector digital data
+          Publication_Information:
+            Publication_Place: Fort Worth, Texas
+            Publisher:
+              U.S. Department of Agriculture,
+              Natural Resources Conservation Service,
+              National Cartography and Geospatial Center
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2004
+        Source_Currentness_Reference: date of publication
+      Source_Citation_Abbreviation: NRCS6
+      Source_Contribution: source for digital revision
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator:
+            U.S. Department of Agriculture,
+            Natural Resources Conservation Service
+          Publication_Date: 2005-2007
+          Title:
+            Soil Survey Geographic (SSURGO) Databases of Adjacent
+            Soil Surveys
+          Geospatial_Data_Presentation_Form: vector digital data
+          Publication_Information:
+            Publication_Place: Lincoln, Nebraska
+            Publisher:
+              U.S. Department of Agriculture,
+              Natural Resources Conservation Service,
+              National Soil Survey Center
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 2005
+            Ending_Date: 2007
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: NRCS7
+      Source_Contribution: source for county boundary
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator:
+            U.S. Department of Agriculture,
+            Natural Resources Conservation Service
+          Publication_Date: 2007
+          Title:
+            Soil Survey Geographic (SSURGO) database for
+            Bucks County, Pennsylvania
+          Geospatial_Data_Presentation_Form: vector digital data
+          Publication_Information:
+            Publication_Place: Fort Worth, Texas
+            Publisher:
+              U.S. Department of Agriculture,
+              Natural Resources Conservation Service,
+              National Cartography and Geospatial Center
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2007
+        Source_Currentness_Reference: date of publication
+      Source_Citation_Abbreviation: NRCS8
+      Source_Contribution: source for digital revision
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator:
+            U.S. Department of Agriculture,
+            Natural Resources Conservation Service
+          Publication_Date: 2008
+          Title:
+            Soil Survey Geographic (SSURGO) database for
+            Montgomery County, Pennsylvania
+          Geospatial_Data_Presentation_Form: vector digital data
+          Publication_Information:
+            Publication_Place: Fort Worth, Texas
+            Publisher:
+              U.S. Department of Agriculture,
+              Natural Resources Conservation Service,
+              National Cartography and Geospatial Center
+      Source_Scale_Denominator: 12000
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2008
+        Source_Currentness_Reference: date of publication
+      Source_Citation_Abbreviation: NRCS9
+      Source_Contribution: source for mapping unit boundaries
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Department of Agriculture, Farm Services Agency
+          Publication_Date: 2005
+          Title:
+            National Agriculture Imagery Program (NAIP)
+            1-meter mosaic of Montgomery County
+          Geospatial_Data_Presentation_Form: remotely sensed image
+          Publication_Information:
+            Publication_Place: Fort Worth, Texas
+            Publisher: U.S. Department of Agriculture, Farm Services Agency
+      Source_Scale_Denominator: 40000
+      Type_of_Source_Media: stable-base material
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2005
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: FSA1
+      Source_Contribution: digital base photographs for line adjustment
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator:
+            U.S. Department of Agriculture, Natural Resources
+            Conservation Service
+          Publication_Date: unpublished material
+          Title: region 3 soils geodatabase
+          Geospatial_Data_Presentation_Form: file geodatabase
+      Type_of_Source_Media: vector digital data
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 2006
+            Ending_Date: 2018
+        Source_Currentness_Reference: SSURGO publication date
+      Source_Citation_Abbreviation: NRCS10
+      Source_Contribution: Source of digital revision - recreated yearly
+    Process_Step:
+      Process_Description:
+        The Soil Survey of Bucks and Philadelphia Counties, Pennsylvania
+        was published in 1975 at the 1:15,840 scale. Because of the
+        dramatic increase in urbanization within the county since 1975, a
+        soil survey update was needed.  An evaluation of the soil survey
+        was made in 1985.  The evaluation found that significant changes
+        in classification, land use, outdated soil series, and standards
+        and procedures for making soil surveys, had made the 1975 survey
+        obsolete. A soil survey update was approved in 1985.  The Bucks
+        County, Pennsylvania Soil Survey Update is part of an ongoing survey
+        project that includes the following Pennsylvania Counties: Berks,
+        Chester, Delaware, Lehigh, Montgomery, Northhampton and Philadelphia.
+        This survey update area will have the same soil mapping units across
+        these eight counties.  There will be a perfect join for all eight
+        counties with each other.  Bucks County joins Lehigh County and
+        Northhampton County in the North, and Montgomery County and
+        Philadelphia County in the South.  The Delaware River separates Bucks
+        County from the following New Jersey Counties: Hunterdon, Mercer and
+        Burlington.
+      Source_Used_Citation_Abbreviation: SCS1
+      Process_Date: 1985
+    Process_Step:
+      Process_Description:
+        Field work for the second order soil survey began in 1988 with the
+        Initial Field Review shortly thereafter.  Field data were collected
+        by transecting map units to determine map unit composition, pedon
+        sampling to determine the physical and chemical characteristics of
+        soil, and locating the 1975 soil series type locations and
+        reclassifying them with new taxonomic standards.  This field work
+        provided soil scientists with information on patterns of soil
+        occurrences that could be remotely sensed using 1:24,000 scale aerial
+        photography, 1:24,000 scale ratioed film positives of the 1975
+        published soil survey, and 7.5 minute topographic quadrangles showing
+        landform contours. These patterns were checked in the field using
+        standard data collection practices for soil surveying. Soil scientists
+        analyzed soil samples in the laboratory and ran statistical methods
+        to classify and develop series and mapping units. The classification
+        and map unit names were finalized at the final correlation in February
+        1997.
+      Source_Used_Citation_Abbreviation: SCS2, SCS3, NRCS1, USGS1
+      Process_Date: 1997
+    Process_Step:
+      Process_Description:
+        Field soil scientists used 1:24,000 scale aerial photographs,
+        topographic quadrangles and ratioed film positives of the published
+        soil survey atlas sheets to compile the soil boundaries to the 7.5
+        minute orthophotographic quadrangle base maps.  Aerial photographs at
+        the 1:24000 scale, 7.5 minute topographic quadrangles and ratioed film
+        positives of the 1975 published soil survey were used as reference for
+        soil line and special soil feature placement, and correlation of map
+        units.
+      Source_Used_Citation_Abbreviation: SCS2, USGS1, SCS3, USGS2, NRCS2
+      Process_Date: 1995
+    Process_Step:
+      Process_Description:
+        The annotated soil overlays, were scanned by Midwest Graphics Services
+        Incorporated in Milwaukee, Wisconsin, on a drum scanner at a
+        resolution of 200 dpi. The raster files, of the scanned soil lines,
+        were imported into LTPlus for raster editing, map neatline development,
+        labeling, edgematching, and vector conversion.  The cleaned vector
+        files were transferred into ARC/INFO version 7.0.4 for final plotting,
+        error analysis and quality control. The ARC/INFO "MAPJOIN" command
+        was used to merge the 7.5 minute quadrangle ARC/INFO coverages into
+        a seamless county coverage.  The polygon attributes and map unit
+        acreages from the spatial data were checked against the February 1997
+        final correlation legend.  Major and minor code pairs were assigned
+        to map units and checked against the correlation legend and their
+        order in the tabular data.  The seamless county coverage was cut into
+        mathematically correct 7.5 minute quadrangles using the ARC/INFO
+        "SPLIT" command. The soils data were plotted and checked against the
+        annotated soil overlays for adherence to 0.01 inch line accuracy. The
+        data were then exported as Digital Line Graph (DLG) 3 optional format
+        files from ARC/INFO using the "ARCDLG" command and imported into Grass
+        Version 4.13.  Special soil features were manually digitized, from
+        the annotated soil overlays, using GRASS version 4.13 and checked
+        against the digital soils data.  There were no special soil features
+        digitized in the following quadrangles: Allentown East, Ambler,
+        Bristol, Langhorne, Pennington and Stockton.  The data were written
+        as DLG-3 optional format files using the v.dlg.out command.
+        Compilation, digitizing, and quality control were performed by the
+        soil scientists and cartographic technicians at the Pennsylvania
+        Natural Resources Conservation Service Map Compilation and Digitizing
+        Center. The digital maps of soil lines and special soil features were
+        also reviewed by the Natural Resources Conservation Service (NRCS),
+        National Cartography and Geospatial Center (NCGC) staff in Fort Worth,
+        Texas for adherence to SSURGO standards.  The NCGC, SSURGO Support
+        Section staff imported the data for verification in ARC/INFO 7.1.1.
+        The data were edited. New DLGs reflecting these changes were written
+        with ARC/INFO 7.1.1.  The Map Unit Interpretations Record (MUIR)
+        data base was developed by NRCS soil scientists according to national
+        standards. Pennsylvania NRCS soil scientists supplied the SSURGO
+        download from the MUIR database.  The data were certified and archived
+        by NCGC.
+      Source_Used_Citation_Abbreviation: NRCS2, NRCS3
+      Process_Date: 1999
+    Process_Step:
+      Process_Description:
+        Pennsylvania NRCS soil scientists have revised the spatial data for
+        Bucks County, Pennsylvania.  The digital data was reviewed. The
+        NRCS soil scientists used ARC/INFO version 8.01 to adjust county
+        boundaries and check the placement of water bodies against the digital
+        orthophotography.  DLG-3 optional format files were written using the
+        "ARCDLG" command in ARC/INFO version 8.01 and sent to the Michigan
+        Digitizing Unit (MIDU) in East Lansing, Michigan for SSURGO
+        recertification.
+      Source_Used_Citation_Abbreviation: NRCS5, USGS3
+      Process_Date: 2002
+    Process_Step:
+      Process_Description:
+        The MUIR attribute data has been replaced with attribute data from the
+        National Soil Information System (NASIS) data base.  The NASIS data base
+        was developed by NRCS soil scientists according to national standards.
+        Pennsylvania NRCS soil scientists supplied the SSURGO download from
+        the NASIS database.  Acreage totals for each map unit in NASIS are
+        based on the spatial data.
+      Source_Used_Citation_Abbreviation: NRCS4
+      Process_Date: 2004
+    Process_Step:
+      Process_Description:
+        The DLG-3 optional format files for the soils and special soil
+        features were imported into ARC/INFO Version 7.2.1.  The county
+        boundary has been adjusted to exclude islands in the Delaware River
+        that were digitized as part of the Mercer County, New Jersey Soil
+        Survey. The soils data has been edited to join with Northhampton
+        County, Pennsylvania.  Upon successful completion of the SSURGO
+        Evaluation, the soil survey area coverages were processed with
+        the December 2003 Distribution AML programs provided by NCGC.
+        These AML programs added the areasymbol to all the soil features
+        in the soil survey area.  The certified data were electronically
+        transferred to the NRCS staging server for archival in the Soil
+        Data Mart.
+      Source_Used_Citation_Abbreviation: NRCS5
+      Process_Date: 2004
+    Process_Step:
+      Process_Description:
+        The spatial data for Bucks County, Pennsylvania has been revised by
+        the soil scientists and cartographic technicians at the Pennsylvania
+        NRCS Map Compilation and Digitizing Center at University Park,
+        Pennsylvania. The soil areas in Monroe County have been adjusted
+        using the ARC/INFO Version 8.0.1 software to match the soil polygons
+        in the adjacent soil surveys. The full survey area coverage for the
+        soils was exported from ARC in UTM coordinates with the North
+        American Datum of 1983 (NAD83). The e00 file was sent to the MIDU
+        for review and re-certification.
+      Source_Used_Citation_Abbreviation: NRCS6, NRCS7
+      Process_Date: 2007
+    Process_Step:
+      Process_Description:
+        The MIDU staff downloaded the SSURGO data for Bucks County from the
+        Soil Data Mart (SDM). The ARC/INFO Interchange file from Pennsylvania
+        and the e00 files for the point and linear special soil features from
+        the SDM download were imported into the soil coverages using the
+        ARC/INFO Version 7.2.1 software. The soil survey coverages were
+        processed using the January 2006 SSURGO Certification AML programs
+        for seamless projects. These ARC/INFO programs identified areas
+        within the coverages that needed revision. The data were edited. The
+        minor codes in the soils coverages were replaced with the map unit
+        key codes from the SDM tabular data to link the map units in the
+        spatial data to the NASIS database.  Upon successful completion of
+        the SSURGO Evaluation, the area symbol was added to each feature in
+        the soil survey coverages with the att_check.aml program. The county
+        coverages, the feature file and the metadata were electronically
+        transferred to the NRCS Staging Server to be joined with the tabular
+        data.
+      Source_Used_Citation_Abbreviation: NASIS, NRCS6
+      Process_Date: 2007
+    Process_Step:
+      Process_Description:
+        The staff at the MLRA 148 Soil Survey Project Office in Leesport,
+        Pennsylvania downloaded the Soil SURvey GeOgraphic (SSURGO) data for
+        Bucks County from the Soil Data Mart (SDM).  The soil areas in Bucks
+        County have been adjusted using the ARCGIS software to match the soil
+        polygons in the updated Montgomery Soil Survey.  The special soil
+        features were not changed.  Through photo interpretation of the 2005
+        NAIP orthophotography and review of topographic quadrangles, urban
+        areas and strip mines were delineated and provided with appropriate
+        mapping units ('UoB', 'UoD', 'UzcaB'and 'UzcD').  The MLRA Office in
+        Morgantown, West Virginia added the 4 urban land map units and
+        changed 1 map unit name ('TpB' to 'TrB') to the soils legend for
+        Bucks County to improve the join to Montgomery County.  The full
+        survey area coverage for the soils was exported from ARC in UTM
+        coordinates with the North American Datum of 1983 (NAD83).  The e00
+        file was sent to the MIDU for review and re-certification.
+      Source_Used_Citation_Abbreviation: FSA1, NRCS8, NRCS9
+      Process_Date: 2008
+    Process_Step:
+      Process_Description:
+        The MIDU staff downloaded the SSURGO data for Bucks County from the
+        Soil Data Mart (SDM). The ARC/INFO Interchange file from Pennsylvania
+        and the e00 files for the point and linear special soil features from
+        the SDM download were imported into the soil coverages using the
+        ARC/INFO Version 7.2.1 software. The soil survey coverages were
+        processed using the January 2006 SSURGO Certification AML programs
+        for seamless projects. These ARC/INFO programs identified areas
+        within the coverages that needed revision. The data were edited.
+        A soil boundary was added to a 'Bo' mapping unit in the Buckingham
+        Quadrangle. This area was labeled 'KlC' to conform with the published
+        survey. The minor codes in the soils coverages were replaced with the
+        map unit key codes from the SDM tabular data to link the map units in
+        the spatial data to the NASIS database.  Upon successful completion of
+        the SSURGO Evaluation, the area symbol was added to each feature in
+        the soil survey coverages with the att_check.aml program. The county
+        coverages, the feature file and the metadata were electronically
+        transferred to the NRCS Staging Server to be joined with the tabular
+        data.
+      Source_Used_Citation_Abbreviation: NASIS, NRCS8
+      Process_Date: 2008
+    Process_Step:
+      Process_Description:
+        The spatial data for Bucks County, Pennsylvania soil survey
+        area were downloaded from the Soil Data Mart on October 15, 2012.  The individual
+        shapefiles were appended into a geodatabase for region 3.  The data were
+        processed in ARCGIS 10.1 using a topology object with a 0.1 meter cluster
+        tolerance for the purpose of eliminating gaps and overlaps within the region 3
+        soils geodatabase.  Individual soil survey area data were exported as shapefiles
+        from the regional geodatabase.  A datum transformation from NAD83 to WGS84 using
+        the NAD_1983_To_WGS_1984_1 datum transformation method was applied to the data.
+        The data were checked with the SSURGO Evaluation scripts provided by U.S.
+        Department of Agriculture, Natural Resources Conservation Service. The shapefiles
+        were uploaded to the soil data warehouse for archival and distribution.
+      Source_Used_Citation_Abbreviation: NRCS10
+      Process_Date: 2013
+    Process_Step:
+      Process_Description:
+        The Region 3 geodatabase for Bucks County, Pennsylvania was edited as
+        part of the following projects. For the MLRA 148 Mapunit Alluvial Lands
+        field work update, fluvaquents and udifluvents and udepts Project,
+        polygon edits were made. Mapunit Fl was changed to HbA.
+        The data were checked with the SSURGO Evaluation scripts provided by
+        U.S. Department of Agriculture, Natural Resources Conservation Service.
+        The shapefiles were then exported and uploaded to the soil data warehouse
+        for archival and distribution through Web Soil Survey (WSS).
+      Source_Used_Citation_Abbreviation: NRCS10
+      Process_Date: 20180905
+    Process_Step:
+      Process_Description:
+        The spatial data for the entire SSURGO database was recertified in October
+        of 2019 to reduce storage requirements and to improve map display
+        and geoprocessing performance.  The SSURGO data is internally managed
+        using 3 Regional Transactional Spatial Databases (RTSD) that are in
+        an ESRI File Geodatabase format.  The spatial extent of the RTSDs follow the
+        Soil and Plant Science Division (SPSD) regional administrative boundaries.
+        The XY coordinate system of this RTSD is USA Contiguous Albers Equal Area
+        Conic USGS Version WKID: 102039 and has an XY storage precision of 0.001
+        meters.  The RTSDs were recreated using a reduced storage precision of 0.1
+        meters to reduce the physical size of the data.  The SSURGO data was also
+        generalized by removing excess vertices, using a tolerance of 1 meter.
+        The topology was validated at the CONUS level using a tolerance of 0.2
+        meters.  This effort directly affects the gSSURGO and gNATSGO product since
+        these deliverables are in a File Geodatabase format.
+      Source_Used_Citation_Abbreviation: NRCS10
+      Process_Date: 2019
+    Process_Step:
+      Process_Description:
+        The Natural Resources Conservation Service State Soil Scientist or
+        delegate, upon completion of data quality verification, determined
+        that the tabular data should be released for official use. A
+        selected set of map units and components in the soil survey legend was
+        copied to a staging database, and rating values for selected
+        interpretations were generated. The list of selected interpretations is
+        stored in the database table named sainterp.
+      Source_Used_Citation_Abbreviation: NASIS
+      Process_Date: 20190916
+    Process_Step:
+      Process_Description:
+        The Natural Resources Conservation Service State Soil Scientist or
+        delegate verified that the labels on the digitized soil map units
+        link to map units in the tabular database, and certified the joined
+        data sets for release to the Soil Data Warehouse. A system assigned
+        version number and date stamp were added and the data were copied to
+        the data warehouse. The tabular data for the map units and components
+        were extracted from the data warehouse and reformatted into the soil
+        data delivery data model, then stored in the Soil Data Mart. The spatial
+        data were copied to the Soil Data Mart without change.
+      Source_Used_Citation_Abbreviation: NASIS
+      Process_Date: 20190916
+    Process_Step:
+      Process_Description:
+        The Natural Resources Conservation Service State Soil Scientist or
+        delegate, upon completion of data quality verification, determined
+        that the tabular data should be released for official use. A
+        selected set of map units and components in the soil survey legend was
+        copied to a staging database, and rating values for selected
+        interpretations were generated. The list of selected interpretations is
+        stored in the database table named sainterp.
+      Source_Used_Citation_Abbreviation: NASIS
+      Process_Date: 20190916
+    Process_Step:
+      Process_Description:
+        The Natural Resources Conservation Service State Soil Scientist or
+        delegate verified that the labels on the digitized soil map units
+        link to map units in the tabular database, and certified the joined
+        data sets for release to the Soil Data Warehouse. A system assigned
+        version number and date stamp were added and the data were copied to
+        the data warehouse. The tabular data for the map units and components
+        were extracted from the data warehouse and reformatted into the soil
+        data delivery data model, then stored in the Soil Data Mart. The spatial
+        data were copied to the Soil Data Mart without change.
+      Source_Used_Citation_Abbreviation: NASIS
+      Process_Date: 20190916
+    Process_Step:
+      Process_Description:
+        The Natural Resources Conservation Service State Soil Scientist or
+        delegate, upon completion of data quality verification, determined
+        that the tabular data should be released for official use. A
+        selected set of map units and components in the soil survey legend was
+        copied to a staging database, and rating values for selected
+        interpretations were generated. The list of selected interpretations is
+        stored in the database table named sainterp.
+      Source_Used_Citation_Abbreviation: NASIS
+      Process_Date: 20190916
+    Process_Step:
+      Process_Description:
+        The Natural Resources Conservation Service State Soil Scientist or
+        delegate verified that the labels on the digitized soil map units
+        link to map units in the tabular database, and certified the joined
+        data sets for release to the Soil Data Warehouse. A system assigned
+        version number and date stamp were added and the data were copied to
+        the data warehouse. The tabular data for the map units and components
+        were extracted from the data warehouse and reformatted into the soil
+        data delivery data model, then stored in the Soil Data Mart. The spatial
+        data were copied to the Soil Data Mart without change.
+      Source_Used_Citation_Abbreviation: NASIS
+      Process_Date: 20190916
+    Process_Step:
+      Process_Description:
+        The Natural Resources Conservation Service State Soil Scientist or
+        delegate, upon completion of data quality verification, determined
+        that the tabular data should be released for official use. A
+        selected set of map units and components in the soil survey legend was
+        copied to a staging database, and rating values for selected
+        interpretations were generated. The list of selected interpretations is
+        stored in the database table named sainterp.
+      Source_Used_Citation_Abbreviation: NASIS
+      Process_Date: 20200604
+    Process_Step:
+      Process_Description:
+        The Natural Resources Conservation Service State Soil Scientist or
+        delegate verified that the labels on the digitized soil map units
+        link to map units in the tabular database, and certified the joined
+        data sets for release to the Soil Data Warehouse. A system assigned
+        version number and date stamp were added and the data were copied to
+        the data warehouse. The tabular data for the map units and components
+        were extracted from the data warehouse and reformatted into the soil
+        data delivery data model, then stored in the Soil Data Mart. The spatial
+        data were copied to the Soil Data Mart without change.
+      Source_Used_Citation_Abbreviation: NASIS
+      Process_Date: 20200604
+    Process_Step:
+      Process_Description:
+        The Natural Resources Conservation Service State Soil Scientist or
+        delegate, upon completion of data quality verification, determined
+        that the tabular data should be released for official use. A
+        selected set of map units and components in the soil survey legend was
+        copied to a staging database, and rating values for selected
+        interpretations were generated. The list of selected interpretations is
+        stored in the database table named sainterp.
+      Source_Used_Citation_Abbreviation: NASIS
+      Process_Date: 20200604
+    Process_Step:
+      Process_Description:
+        The Natural Resources Conservation Service State Soil Scientist or
+        delegate verified that the labels on the digitized soil map units
+        link to map units in the tabular database, and certified the joined
+        data sets for release to the Soil Data Warehouse. A system assigned
+        version number and date stamp were added and the data were copied to
+        the data warehouse. The tabular data for the map units and components
+        were extracted from the data warehouse and reformatted into the soil
+        data delivery data model, then stored in the Soil Data Mart. The spatial
+        data were copied to the Soil Data Mart without change.
+      Source_Used_Citation_Abbreviation: NASIS
+      Process_Date: 20200604
+    Process_Step:
+      Process_Description:
+        The Natural Resources Conservation Service State Soil Scientist or
+        delegate, upon completion of data quality verification, determined
+        that the tabular data should be released for official use. A
+        selected set of map units and components in the soil survey legend was
+        copied to a staging database, and rating values for selected
+        interpretations were generated. The list of selected interpretations is
+        stored in the database table named sainterp.
+      Source_Used_Citation_Abbreviation: NASIS
+      Process_Date: 20210831
+    Process_Step:
+      Process_Description:
+        The Natural Resources Conservation Service State Soil Scientist or
+        delegate verified that the labels on the digitized soil map units
+        link to map units in the tabular database, and certified the joined
+        data sets for release to the Soil Data Warehouse. A system assigned
+        version number and date stamp were added and the data were copied to
+        the data warehouse. The tabular data for the map units and components
+        were extracted from the data warehouse and reformatted into the soil
+        data delivery data model, then stored in the Soil Data Mart. The spatial
+        data were copied to the Soil Data Mart without change.
+      Source_Used_Citation_Abbreviation: NASIS
+      Process_Date: 20210831
+    Process_Step:
+      Process_Description:
+        The Natural Resources Conservation Service State Soil Scientist or
+        delegate, upon completion of data quality verification, determined
+        that the tabular data should be released for official use. A
+        selected set of map units and components in the soil survey legend was
+        copied to a staging database, and rating values for selected
+        interpretations were generated. The list of selected interpretations is
+        stored in the database table named sainterp.
+      Source_Used_Citation_Abbreviation: NASIS
+      Process_Date: 20220906
+    Process_Step:
+      Process_Description:
+        The Natural Resources Conservation Service State Soil Scientist or
+        delegate verified that the labels on the digitized soil map units
+        link to map units in the tabular database, and certified the joined
+        data sets for release to the Soil Data Warehouse. A system assigned
+        version number and date stamp were added and the data were copied to
+        the data warehouse. The tabular data for the map units and components
+        were extracted from the data warehouse and reformatted into the soil
+        data delivery data model, then stored in the Soil Data Mart. The spatial
+        data were copied to the Soil Data Mart without change.
+      Source_Used_Citation_Abbreviation: NASIS
+      Process_Date: 20220906
+    Process_Step:
+      Process_Description:
+        The Natural Resources Conservation Service State Soil Scientist or
+        delegate, upon completion of data quality verification, determined
+        that the tabular data should be released for official use. A
+        selected set of map units and components in the soil survey legend was
+        copied to a staging database, and rating values for selected
+        interpretations were generated. The list of selected interpretations is
+        stored in the database table named sainterp.
+      Source_Used_Citation_Abbreviation: NASIS
+      Process_Date: 20230904
+    Process_Step:
+      Process_Description:
+        The Natural Resources Conservation Service State Soil Scientist or
+        delegate verified that the labels on the digitized soil map units
+        link to map units in the tabular database, and certified the joined
+        data sets for release to the Soil Data Warehouse. A system assigned
+        version number and date stamp were added and the data were copied to
+        the data warehouse. The tabular data for the map units and components
+        were extracted from the data warehouse and reformatted into the soil
+        data delivery data model, then stored in the Soil Data Mart. The spatial
+        data were copied to the Soil Data Mart without change.
+      Source_Used_Citation_Abbreviation: NASIS
+      Process_Date: 20230904
+    Process_Step:
+      Process_Description:
+        The Natural Resources Conservation Service State Soil Scientist or
+        delegate, upon completion of data quality verification, determined
+        that the tabular data should be released for official use. A
+        selected set of map units and components in the soil survey legend was
+        copied to a staging database, and rating values for selected
+        interpretations were generated. The list of selected interpretations is
+        stored in the database table named sainterp.
+      Source_Used_Citation_Abbreviation: NASIS
+      Process_Date: 20240904
+    Process_Step:
+      Process_Description:
+        The Natural Resources Conservation Service State Soil Scientist or
+        delegate verified that the labels on the digitized soil map units
+        link to map units in the tabular database, and certified the joined
+        data sets for release to the Soil Data Warehouse. A system assigned
+        version number and date stamp were added and the data were copied to
+        the data warehouse. The tabular data for the map units and components
+        were extracted from the data warehouse and reformatted into the soil
+        data delivery data model, then stored in the Soil Data Mart. The spatial
+        data were copied to the Soil Data Mart without change.
+      Source_Used_Citation_Abbreviation: NASIS
+      Process_Date: 20240904
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000001
+      Longitude_Resolution: 0.0000001
+      Geographic_Coordinate_Units: decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: World Geodetic System 1984
+      Ellipsoid_Name: World Geodetic System 1984
+      Semi-major_Axis: 6378137.00000
+      Denominator_of_Flattening_Ratio: 298.257222
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Special Soil Features
+      Entity_Type_Definition:
+        Special Soil Features represent soil, miscellaneous area, or landform
+        features that are too small to be digitized as soil delineations
+        (area features).
+      Entity_Type_Definition_Source: Agricultural Handbook 18, Soil Survey Manual, 1993, USDA, SCS.
+    Attribute:
+      Attribute_Label: Special Soil Features Codes
+      Attribute_Definition:
+        Special Soil Features labels represent specific Special Soil
+        Features. These features are identified with a descriptive
+        label. The label is assigned to the point or line assigned
+        to represent the feature on maps.
+      Attribute_Definition_Source:
+        Agricultural Handbook 18, Soil Survey Manual, 1993, USDA, SCS;
+        National Soil Survey Handbook, Title 430-VI, part 647
+        (current issue), USDA, NRCS.
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name:
+            Classification and Correlation of the Soils of
+            Bucks County, Pennsylvania
+          Codeset_Source:
+            U.S. Department of Agriculture, Natural Resources
+            Conservation Service
+  Overview_Description:
+    Entity_and_Attribute_Overview:
+      Map Unit Delineations are closed polygons that may be dominated
+      by a single soil or miscellaneous area component plus allowable
+      similar or dissimilar soils, or they can be geographic mixtures
+      of groups of soils or soils and miscellaneous areas.
+
+      The map unit symbol uniquely identifies each closed map unit
+      delineation. Each symbol corresponds to a map unit name. The
+      map unit key is used to link to information in the National
+      Soil Information System tables.
+
+      Map Unit Delineations are described by the National Soil
+      Information System database. This attribute database gives the
+      proportionate extent of the component soils and the properties for
+      each soil. The database contains both estimated and measured data
+      on the physical and chemical soil properties and soil
+      interpretations for engineering, water management, recreation,
+      agronomic, woodland, range, and wildlife uses of the soil.
+
+      The National Soil Information System database contains static
+      metadata. It documents the data structure and includes such
+      information as what tables, columns, indexes, and relationships
+      are defined as well as a variety of attributes of each of these
+      database objects. Attributes include table and column
+      descriptions and detailed domain information.
+
+      The National Soil Information System database also contains a
+      distribution metadata. It records the criteria used for selecting
+      map units and components for inclusion in the set of distributed
+      data.
+
+      Special features are described in the feature table.  It includes an
+      area symbol, feature label, feature name, and feature description for
+      each special and ad hoc feature in the survey area.
+    Entity_and_Attribute_Detail_Citation:
+      Soil Taxonomy: A basic system of soil classification for making and
+      interpreting soil surveys. Agricultural Handbook 436, 1999, USDA, SCS.
+
+      Keys to Soil Taxonomy (current issue), USDA, SCS.
+
+      National Soil Survey Handbook, Title 430-VI, part 647 (current
+      issue), USDA, NRCS.
+
+      Agricultural Handbook 18, Soil Survey Manual, 1993, USDA, SCS.
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization:
+          U.S. Department of Agriculture, Natural
+          Resources Conservation Service, National
+          Geospatial Center of Excellence
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 501 West Felix Street, Building 23
+        City: Fort Worth
+        State_or_Province: Texas
+        Postal_Code: 76115
+      Contact_Voice_Telephone: 800 672 5559
+      Contact_TDD/TTY_Telephone: 202 720 2600
+      Contact_Facsimile_Telephone: 817 509 3469
+  Resource_Description: Bucks County, Pennsylvania SSURGO
+  Distribution_Liability:
+    Although these data have been processed successfully on a computer
+    system at the U.S. Department of Agriculture, no warranty expressed
+    or implied is made by the Agency regarding the utility of the data
+    on any other system, nor shall the act of distribution constitute
+    any such warranty. The U.S. Department of Agriculture will warrant
+    the delivery of this product in computer readable format, and will
+    offer appropriate adjustment of credit when the product is determined
+    unreadable by correctly adjusted computer input peripherals, or
+    when the physical medium is delivered in damaged condition. Request
+    for adjustment of credit must be made within 90 days from the date
+    of this shipment from the ordering site.
+
+    The U.S. Department of Agriculture, nor any of its agencies are
+    liable for misuse of the data, for damage, for transmission of
+    viruses, or for computer contamination through the distribution of
+    these data sets. The U.S. Department of Agriculture (USDA) prohibits
+    discrimination in all its programs and activities on the basis of race,
+    color, national origin, sex, religion, age, disability, political
+    beliefs, sexual orientation, or marital or family status. (Not all
+    prohibited bases apply to all programs.)
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI shapefile
+        Format_Information_Content: spatial
+        Transfer_Size: 14.4
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: URL:http://DataGateway.nrcs.usda.gov/
+          Access_Instructions:
+            Select desired survey area at above Internet
+            Web site. An email address is required for receipt of
+            instructions on retrieval via anonymous FTP. Anticipate a
+            delay between submission of request at Web site and receipt of
+            email message.
+    Fees:
+      There is currently no direct charge for requesting data or for
+      retrieval via FTP.
+    Ordering_Instructions:
+      Visit the above mentioned Internet Web Site, select state or
+      territory, then select individual soil survey area of interest.
+      Spatial line data and locations of special feature symbols are in
+      ESRI ArcGIS shapefile, format. The National Soil Information
+      System attribute soil data are available in variable length, pipe
+      delimited, ASCII file format.
+    Turnaround: Typically within four hours
+Metadata_Reference_Information:
+  Metadata_Date: 20250711
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Department of Agriculture, Natural Resources Conservation Service
+      Contact_Position: State Soil Scientist
+      Contact_Address:
+        Address_Type: mailing address
+        Address: USDA-NRCS
+        Address: 359 East Park Drive, Suite 2
+        City: Harrisburg
+        State_or_Province: PA
+        Postal_Code: 17111-2747
+      Contact_Voice_Telephone: 717-237-2207
+      Contact_TDD/TTY_Telephone: 7172372235
+      Contact_Facsimile_Telephone: 717-237-2238
+      Contact_Electronic_Mail_Address: Yuri.Plowden@usda.gov
+  Metadata_Standard_Name: Content Standard for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998

@@ -1,0 +1,5 @@
+"AbA"|"Abbottstown silt loam, 0 to 3 percent slopes"|"Consociation"||9295|||||||"Farmland of statewide importance"|||||"Order 2"||||||"14903"|"543588"
+"AbB"|"Abbottstown silt loam, 3 to 8 percent slopes"|"Consociation"||18368|||||||"Farmland of statewide importance"|||||"Order 2"||||||"14903"|"543589"
+"Bo"|"Bowmansville-Knauers silt loams"|"Complex"||16606|||||||"Farmland of statewide importance"|||||"Order 2"||||||"14903"|"543602"
+"CbA"|"Chalfont silt loam, 0 to 3 percent slopes"|"Consociation"||4745|||||||"Farmland of statewide importance"|||||||||||"14903"|"543612"
+"DdA"|"Doylestown silt loam, 0 to 3 percent slopes"|"Consociation"||5397|||||||"Not prime farmland"|||||||||||"14903"|"543626"
